@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-cors",
+  "versions": [
+    {
+      "commit": "f22b38ff3c50cd395b95968960ef9a5bb49c5465",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:04:15.061325+00:00"
+    }
+  ]
+}
