@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-cors/commit/f22b38ff3c50cd395b95968960ef9a5bb49c5465",
       "git:hexsha": "f22b38ff3c50cd395b95968960ef9a5bb49c5465",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette-cors/commit/1b4b2c75afcb8c8418d112dbe64397dbb83fd25c",
